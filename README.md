@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ayushkr012/Movie-Watchlist-Application.git
+   git clone https://github.com/SarveshKh15/Moviewatcher.git
    ```
 2. Navigate to the backend directory and install dependencies
    ```sh
